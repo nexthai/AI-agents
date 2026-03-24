@@ -1,1 +1,1 @@
-Different kinds of agent projects
+Various AI agent projects
