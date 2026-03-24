@@ -1,1 +1,1 @@
-Different kinds of agents projects
+Different kinds of agent projects
