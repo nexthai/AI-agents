@@ -1,0 +1,4 @@
+- ProductManager (Product Manager): Responsible for transforming users' vague requirements into clear, executable development plans.
+- Engineer: Based on the development plan, responsible for writing specific application code.
+- CodeReviewer (Code Reviewer): Responsible for reviewing code submitted by engineers to ensure its quality, readability, and robustness.
+- UserProxy (User Proxy): Represents the end user, initiates the initial task, and is responsible for executing and verifying the final delivered code.
