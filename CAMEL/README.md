@@ -1,4 +1,4 @@
-(1) Task Setup
+Task
 
 Scenario Setup: Create a popular science e-book on the psychology of procrastination for general readers, requiring both scientific rigor and good readability.
 
