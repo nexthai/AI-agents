@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-代码示例 10: RAG完整处理管道
+RAG完整处理管道
 展示从文档处理到智能问答的完整RAG流程
 """
 
