@@ -9,7 +9,6 @@ This project demonstrates how to build an end-to-end RAG pipeline that includes:
 - intelligent chunking
 - advanced retrieval
 - context-based QA
-- performance testing and monitoring
 
 ---
 
