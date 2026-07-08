@@ -8,7 +8,6 @@ This project demonstrates how to build an end-to-end RAG pipeline that includes:
 - document ingestion
 - intelligent chunking
 - advanced retrieval
-- context-based QA
 
 ---
 
