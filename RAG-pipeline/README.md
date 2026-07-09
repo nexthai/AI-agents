@@ -15,8 +15,6 @@ This project demonstrates how to build an end-to-end RAG pipeline that includes:
 
 This project is built around a demo class called `RAGPipelineComplete`, which uses `hello_agents.tools.RAGTool` to simulate the key stages of a real-world RAG system.
 
-It is designed primarily as a **demo / learning / architecture illustration project**, rather than a production-ready implementation.
-
 It is useful for:
 
 - learning how a RAG system is structured
