@@ -78,13 +78,3 @@ Breaks down a complex question into multiple sub-queries and combines the retrie
 
 #### Re-ranking
 Reorders retrieved results using factors such as semantic relevance, freshness, and authority.
-
----
-
-## Dependencies
-
-Based on the code, the project depends on:
-
-- Python 3
-- `hello_agents.tools.RAGTool`
-- `python-dotenv`
