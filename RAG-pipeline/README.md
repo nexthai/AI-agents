@@ -75,6 +75,3 @@ Generates a hypothetical answer first, then uses that generated content as the r
 
 #### Hybrid Retrieval
 Breaks down a complex question into multiple sub-queries and combines the retrieved results.
-
-#### Re-ranking
-Reorders retrieved results using factors such as semantic relevance, freshness, and authority.
