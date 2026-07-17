@@ -3,8 +3,6 @@
 
 This project implements a basic Transformer architecture in PyTorch. It includes the core building blocks of the original encoder-decoder Transformer model, including multi-head attention, positional encoding, encoder layers, decoder layers, masking logic, and final vocabulary projection.
 
-The implementation is designed to demonstrate how a sequence-to-sequence Transformer processes source and target token sequences and produces token-level prediction logits over the target vocabulary.
-
 ## Functionality Overview
 
 The model takes two input sequences:
