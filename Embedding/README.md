@@ -1,7 +1,8 @@
 
 # Transformer Model Implementation
 
-This project implements a basic Transformer architecture in PyTorch. It includes the core building blocks of the original encoder-decoder Transformer model, including multi-head attention, positional encoding, encoder layers, decoder layers, masking logic, and final vocabulary projection.
+This project implements a basic Transformer architecture in PyTorch. 
+It includes the core building blocks of the original encoder-decoder Transformer model, including multi-head attention, positional encoding, encoder layers, decoder layers, masking logic, and final vocabulary projection.
 
 ## Functionality Overview
 
