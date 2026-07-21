@@ -40,9 +40,6 @@ In the encoder, it is used as self-attention, where `Q`, `K`, and `V` all come f
 
 In the decoder, it is used in two ways:
 
-- Masked self-attention over the target sequence
-- Cross-attention over the encoder output
-
 ## PositionWiseFeedForward
 
 The `PositionWiseFeedForward` module applies a feed-forward neural network independently to each token position.
