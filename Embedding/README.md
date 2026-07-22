@@ -225,17 +225,3 @@ Target token IDs
     -> Final linear layer
     -> Vocabulary logits
 ```
-
-## Notes
-
-This implementation is a simplified educational Transformer model. It focuses on the core architecture and forward-pass mechanics rather than training utilities, dataset handling, inference decoding strategies, checkpointing, or production-level optimization.
-
-It is useful for understanding how the main components of a Transformer interact with each other, especially:
-
-- Multi-head attention
-- Encoder-decoder structure
-- Residual connections
-- Layer normalization
-- Positional encoding
-- Padding masks
-- Causal target masks
