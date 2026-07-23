@@ -1,7 +1,7 @@
 
 # RAG Pipeline
 
-A Python demo project that showcases a full **RAG (Retrieval-Augmented Generation)** workflow, from **document ingestion** to **intelligent question answering**.
+A full **RAG (Retrieval-Augmented Generation)** workflow, from **document ingestion** to **intelligent question answering**.
 
 This project demonstrates how to build an end-to-end RAG pipeline that includes:
 
