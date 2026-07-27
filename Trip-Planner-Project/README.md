@@ -1,4 +1,4 @@
-# Smart Travel Assistant 🌍
+# Smart Travel Assistant
 A smart travel planning assistant built with integration to the Amap MCP service, providing personalized travel plan generation.
 
 ✨ Features
