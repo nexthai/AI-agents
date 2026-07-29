@@ -12,7 +12,7 @@ A smart travel planning assistant built with integration to the Amap MCP service
 
 📱 Comprehensive Functionality: Includes recommendations for accommodation, transportation, dining, and sightseeing durations.
 
-🏗️ Tech Stack
+# Tech Stack
 Backend
 Framework: HelloAgents (based on SimpleAgent)
 
