@@ -1,7 +1,7 @@
 # Smart Travel Assistant
 A smart travel planning assistant built with integration to the Amap MCP service, providing personalized travel plan generation.
 
-✨ Features
+# Features
 🤖 AI-Driven Travel Planning: Based on the SimpleAgent of the HelloAgents framework, intelligently generating detailed multi-day itineraries.
 
 🗺️ Amap Integration: Connects to Amap services via the MCP protocol, supporting attraction searches, route planning, and weather queries.
