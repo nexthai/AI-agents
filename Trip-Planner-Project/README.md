@@ -13,7 +13,7 @@ A smart travel planning assistant built with integration to the Amap MCP service
 📱 Comprehensive Functionality: Includes recommendations for accommodation, transportation, dining, and sightseeing durations.
 
 # Tech Stack
-Backend
+- Backend
 Framework: HelloAgents (based on SimpleAgent)
 
 API: FastAPI
@@ -22,7 +22,7 @@ MCP Tools: amap-mcp-server (Amap)
 
 LLM: Supports multiple LLM providers (OpenAI, DeepSeek, etc.)
 
-Frontend
+- Frontend
 Framework: Vue 3 + TypeScript
 
 Build Tool: Vite
