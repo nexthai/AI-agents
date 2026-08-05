@@ -13,7 +13,7 @@ This project demonstrates how to build an end-to-end RAG pipeline that includes:
 
 ## Overview
 
-This project is built around a demo class called `RAGPipelineComplete`, which uses `hello_agents.tools.RAGTool` to simulate the key stages of a real-world RAG system.
+Built a modular retrieval-augmented generation pipeline covering document ingestion, parsing, chunking, embedding generation, vector indexing, retrieval, context assembly, and LLM-based question answering.
 
 It is useful for:
 
