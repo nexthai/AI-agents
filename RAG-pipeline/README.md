@@ -1,14 +1,6 @@
 
 # RAG Pipeline
 
-This project demonstrates how to build an end-to-end RAG pipeline that includes:
-
-- document ingestion
-- intelligent chunking
-- advanced retrieval
-
----
-
 ## Overview
 
 Built a modular retrieval-augmented generation pipeline covering document ingestion, parsing, chunking, embedding generation, vector indexing, retrieval, context assembly, and LLM-based question answering. 
