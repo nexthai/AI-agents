@@ -1,8 +1,6 @@
 
 # RAG Pipeline
 
-A full **RAG (Retrieval-Augmented Generation)** workflow, from **document ingestion** to **intelligent question answering**.
-
 This project demonstrates how to build an end-to-end RAG pipeline that includes:
 
 - document ingestion
@@ -13,7 +11,7 @@ This project demonstrates how to build an end-to-end RAG pipeline that includes:
 
 ## Overview
 
-Built a modular retrieval-augmented generation pipeline covering document ingestion, parsing, chunking, embedding generation, vector indexing, retrieval, context assembly, and LLM-based question answering.
+Built a modular retrieval-augmented generation pipeline covering document ingestion, parsing, chunking, embedding generation, vector indexing, retrieval, context assembly, and LLM-based question answering. Developed advanced query expansion and retrieval techniques, including Multi-Query Expansion and Hypothetical Document Embeddings, to increase retrieval recall for ambiguous and complex questions.
 
 It is useful for:
 
@@ -38,14 +36,6 @@ Supported formats shown in the code include:
 - MD
 - HTML
 - JSON
-
-At the ingestion stage, the demo covers:
-
-- multi-format text input
-- document storage into the knowledge base
-- `document_id` management
-- metadata enrichment such as title, chapter, author, version, and timestamps
-- batch document ingestion
 
 ---
 
