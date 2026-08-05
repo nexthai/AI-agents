@@ -1,5 +1,5 @@
 """
-多Agent协作的智能文档助手
+多Agent assistant的智能文档助手
 
 使用两个SimpleAgent分工协作：
 - Agent1：GitHub搜索专家
