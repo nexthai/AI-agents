@@ -1,4 +1,4 @@
-Scenario: Create a popular science e-book on the psychology of procrastination for general readers, requiring both scientific rigor and good readability.
+Goal: Create a popular science e-book on the psychology of procrastination for general readers, requiring both scientific rigor and good readability.
 
 Agent Roles:
 
